@@ -17,9 +17,8 @@ This project demonstrates an end-to-end automated deployment and monitoring of a
 
 | CloudFormation | EC2 Instances   | AMI Creation         | Health Check   | Lambda/Events    |
 |---------------|-----------------|----------------------|---------------|------------------|
-| ![Stack](architecture/Screenshots/Screenshot 2024-06-06 212604.png) | ![EC2](architecture/Screenshots/ec2-instances_1.png) | ![AMI](architecture/Screenshots/Screenshot-2024-06-06-212715.png) | ![Health](architecture/Screenshots/new-health-check.png) | ![Lambda](architecture/Screenshots/auto-start-and-stop-EC2.png) |
+| ![Stack](architecture/screenshots/Screenshot-2024-06-06-212604.jpg) | ![EC2](architecture/screenshots/ec2-instances_1.jpg) | ![AMI](architecture/screenshots/Screenshot-2024-06-06-212715.jpg) | ![Health](architecture/screenshots/new-health-check.jpg) | ![Lambda](architecture/screenshots/auto-start-and-stop-EC2.jpg) |
 
----
 
 ## Quick Start
 
