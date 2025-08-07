@@ -11,7 +11,7 @@ This guide walks through the automation and monitoring of a scalable WordPress d
 5.	Review your data and click on submit , your cloudformation stack is created
 
 *See:*
-![CloudFormation Stack](../architecture/screenshots/Screenshot-2024-06-06-212604.jpg)
+![CloudFormation Stack](../architecture/Screenshots/Screenshot-2024-06-06-212604.jpg.png)
 
 ---
 
@@ -24,7 +24,7 @@ This guide walks through the automation and monitoring of a scalable WordPress d
 5.	Click on create image , your AMI is created
 
 *See:*
-![AMI Creation Output](../architecture/screenshots/Screenshot-2024-06-06-212715.jpg)
+![AMI Creation Output](../architecture/Screenshots/Screenshot-2024-06-06-212715.jpg.png)
 
 ---
 
@@ -78,7 +78,7 @@ This guide walks through the automation and monitoring of a scalable WordPress d
 17.	Review and click on create rule , you have created a rule to automatically start the  wordpress instance everyday at 9am 
 18.	Similarly u can create a rule to stop the wordpress insatance everyday at 6pm by changing the cron expression to 6pm everyday and in the JSON test replace start with stop
 *See:*
-![Lambda Function](../architecture/screenshots/auto-start-and-stop-EC2.jpg)
+![Lambda Function](../architecture/Screenshots/auto-start-and-stop-EC2.jpg.png)
 
 ---
 
@@ -93,14 +93,14 @@ Email-id this will give u alert emails about the health checks
 6.	You have successfully created a monitoring for the instance using route53’s health check feature
 
 *See:*
-![Health Check](../architecture/screenshots/new-health-check.jpg)
+![Health Check](../architecture/Screenshots/new-health-check.jpg.png)
 
 ## 6. Verify EC2 Instances
 
 - Review running and scaling EC2 instances in the AWS Console.
 
 *See:*
-![EC2 Instances](../architecture/screenshots/ec2-instances_1.jpg)
+![EC2 Instances](../architecture/Screenshots/ec2-instances_1.jpg.png)
 
 ---
 
